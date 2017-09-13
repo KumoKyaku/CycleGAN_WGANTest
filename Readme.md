@@ -7,6 +7,10 @@ An implementation of CycleGan using TensorFlow (work in progress).
 * Official source code in Torch: https://github.com/junyanz/CycleGAN
 * WGAN :https://github.com/igul222/improved_wgan_training
 
+## DL
+
+DL: http://pan.baidu.com/s/1bMMQ0Q
+
 ## 一些训练心得
 
 * 使用sigmoid交叉熵尽管效果不尽如人意，但最容易训练成功，Wgan和最小二乘的训练方式都有很大几率训练失败。
@@ -20,6 +24,6 @@ An implementation of CycleGan using TensorFlow (work in progress).
 
 ![image](https://github.com/KumoKyaku/READMEPictures/blob/master/CycleGANTest/sigmoid_cross_entropy_res.jpg)
 
-## Others
+## Contact
 
-![image](https://github.com/KumoKyaku/READMEPictures/blob/master/want/wanted.jpg)
+![image](https://github.com/KumoKyaku/READMEPictures/blob/master/Others/Contact.jpg)
